@@ -1,10 +1,10 @@
 # Exp5
 
-5	Experiment No 5: Authentication
+	Experiment No 5: Authentication
 	To develop a Authentication mechanism for our Flutter application (Stateful)
 	During this experiment, we acquired knowledge about
 	creation of Login form
 	GestureDetector
-	Firebase Authentication service (SignIn, SignUp and Reset Password)
+	Firebase Authentication service
 	Toast Messages
 	Splash Screen
